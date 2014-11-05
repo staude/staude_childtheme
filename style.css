@@ -1,0 +1,12 @@
+/**
+ * Theme Name:  	Staude
+ * Template:    	vantage
+ */
+
+@charset "UTF-8";
+@import url("../vantage/style.css");
+
+.vantage-grid-loop article {
+    width: 33%;
+}
+
